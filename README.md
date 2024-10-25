@@ -12,9 +12,13 @@ The Learning Hub repository serves as a comprehensive guide for:
 
 Repository Structure
 
-The repository is organized into different directories for each topic / course, making it easy to find resources on specific areas. Here’s an example of the structure:
+The repository is organized into different directories for each topic or course, making it easy to find resources on specific areas. Here’s an example of the structure:
 
-machine-learning-specialization (Andrew Ng)
-    supervised-machine-learning-regression-and-classification
-    advanced-learning-algorithms
-    unsupervised-learing-recommenders-reinforcement-learning
+learning-hub/
+│
+└── machine-learning-specialization (Andrew Ng)
+    ├── supervised-machine-learning-regression-and-classification
+    ├── advanced-learning-algorithms
+    └── unsupervised-learning-recommenders-reinforcement-learning
+
+	•	machine-learning-specialization (Andrew Ng): A comprehensive collection of notes and exercises from the popular Machine Learning Specialization by Andrew Ng. Includes:
